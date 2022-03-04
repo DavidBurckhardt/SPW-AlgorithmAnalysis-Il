@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1634442530 source:c:\users\user\onedrive\escritorio\tpe ayda ll\src\libro.cpp
+	"Libro.h"
+
+1634442502 c:\users\user\onedrive\escritorio\tpe ayda ll\include\libro.h
+	<iostream>
+
+1634443077 source:c:\users\user\onedrive\escritorio\tpe ayda ll\main.cpp
+	<iostream>
+	<fstream>
+	"Biblioteca.h"
+	"Procesar.h"
+	"Alumnos.h"
+
+1634443016 c:\users\user\onedrive\escritorio\tpe ayda ll\include\biblioteca.h
+	<iostream>
+	<map>
+	<set>
+	"Libro.h"
+	"../Alumnos.h"
+
+1634442806 c:\users\user\onedrive\escritorio\tpe ayda ll\alumnos.h
+	<set>
+	<vector>
+
+1634442334 c:\users\user\onedrive\escritorio\tpe ayda ll\procesar.h
+	<iostream>
+	<fstream>
+	<set>
+	"Biblioteca.h"
+	"Libro.h"
+
+1634443291 source:c:\users\user\onedrive\escritorio\tpe ayda ll\procesar.cpp
+	"Procesar.h"
+
+1634442475 source:c:\users\user\onedrive\escritorio\tpe ayda ll\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1634442806 c:\users\user\onedrive\escritorio\tpe ayda ll\include\alumnos.h
+	<set>
+	<vector>
+
+1634442334 c:\users\user\onedrive\escritorio\tpe ayda ll\include\procesar.h
+	<iostream>
+	<fstream>
+	<set>
+	"Biblioteca.h"
+	"Libro.h"
+
+1634443077 source:c:\users\user\onedrive\escritorio\david\tpe ayda ll\main.cpp
+	<iostream>
+	<fstream>
+	"Biblioteca.h"
+	"Procesar.h"
+	"Alumnos.h"
+
+1634443016 c:\users\user\onedrive\escritorio\david\tpe ayda ll\include\biblioteca.h
+	<iostream>
+	<map>
+	<set>
+	"Libro.h"
+	"../Alumnos.h"
+
+1634442502 c:\users\user\onedrive\escritorio\david\tpe ayda ll\include\libro.h
+	<iostream>
+
+1634442806 c:\users\user\onedrive\escritorio\david\tpe ayda ll\alumnos.h
+	<set>
+	<vector>
+
+1634442334 c:\users\user\onedrive\escritorio\david\tpe ayda ll\procesar.h
+	<iostream>
+	<fstream>
+	<set>
+	"Biblioteca.h"
+	"Libro.h"
+
+1634443291 source:c:\users\user\onedrive\escritorio\david\tpe ayda ll\procesar.cpp
+	"Procesar.h"
+
+1634442475 source:c:\users\user\onedrive\escritorio\david\tpe ayda ll\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1634442530 source:c:\users\user\onedrive\escritorio\david\tpe ayda ll\src\libro.cpp
+	"Libro.h"
+
+1634443077 source:c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\main.cpp
+	<iostream>
+	<fstream>
+	"Biblioteca.h"
+	"Procesar.h"
+	"Alumnos.h"
+
+1634443016 c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\include\biblioteca.h
+	<iostream>
+	<map>
+	<set>
+	"Libro.h"
+	"../Alumnos.h"
+
+1634442502 c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\include\libro.h
+	<iostream>
+
+1634442806 c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\alumnos.h
+	<set>
+	<vector>
+
+1634442334 c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\procesar.h
+	<iostream>
+	<fstream>
+	<set>
+	"Biblioteca.h"
+	"Libro.h"
+
+1634443291 source:c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\procesar.cpp
+	"Procesar.h"
+
+1634442475 source:c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1634442530 source:c:\users\user\onedrive\escritorio\facultad\2°\segundo año 2do cuatrimestre\analisis y diseño de algoritmos ll\tpe ayda ll\src\libro.cpp
+	"Libro.h"
+
